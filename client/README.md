@@ -112,7 +112,7 @@ New complaints are held for administrator review. Staff cannot see a complaint u
 
 ---
 
-## 🎯 Step-by-Step Viva / Demo Walkthrough Guide
+##  Demo Walkthrough Guide
 
 Use server-backed student, administrator, and staff accounts to demonstrate the workflow:
 
